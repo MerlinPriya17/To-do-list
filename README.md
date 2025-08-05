@@ -60,3 +60,6 @@ Add task editing
 Add due dates and priorities
 
 Dark mode 
+Output
+
+<img width="1918" height="967" alt="Screenshot 2025-08-05 151150" src="https://github.com/user-attachments/assets/188d377b-469b-4ed3-be26-56a933a19211" />
