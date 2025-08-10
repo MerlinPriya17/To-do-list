@@ -42,9 +42,6 @@ Right-click index.html → Open with Live Server.
 Start adding your tasks!
 
 File Structure
-bash
-Copy
-Edit
 todo-list-app/
 
 index.html      
